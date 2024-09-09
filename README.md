@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  BACKEND 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-shivam95347@gmail.com
+Juhi.sjs@gmail.com
 
 <!---
 js-1608/js-1608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
