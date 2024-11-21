@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juhi
+- 👋 Hi, I’m shivam
 - 👀 I’m interested in  WEB DEVELOPER AND SOFTWARE DEVELOPER
 - 🌱 I’m currently learning  BACKEND 
 - 💞️ I’m looking to collaborate on ...
